@@ -7,36 +7,36 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 ## My Progress
-- [x] Day 1
-- [ ] Day 2
-- [ ] Day 3
-- [ ] Day 4
-- [ ] Day 5
-- [ ] Day 6
-- [ ] Day 7
-- [ ] Day 8
-- [ ] Day 9
-- [ ] Day 10
-- [ ] Day 11
-- [ ] Day 12
-- [ ] Day 13
-- [ ] Day 14
-- [ ] Day 15
-- [ ] Day 16
-- [ ] Day 17
-- [ ] Day 18
-- [ ] Day 19
-- [ ] Day 20
-- [ ] Day 21
-- [ ] Day 22
-- [ ] Day 23
-- [ ] Day 24
-- [ ] Day 25
-- [ ] Day 26
-- [ ] Day 27
-- [ ] Day 28
-- [ ] Day 29
-- [ ] Day 30
+- [x] Day 1 Completed
+- [ ] Day 2 Completed
+- [ ] Day 3 Completed
+- [ ] Day 4 Completed
+- [ ] Day 5 Completed
+- [ ] Day 6 Completed
+- [ ] Day 7 Completed
+- [ ] Day 8 Completed
+- [ ] Day 9 Completed
+- [ ] Day 10 Completed
+- [ ] Day 11 Completed
+- [ ] Day 12 Completed
+- [ ] Day 13 Completed
+- [ ] Day 14 Completed
+- [ ] Day 15 Completed
+- [ ] Day 16 Completed
+- [ ] Day 17 Completed
+- [ ] Day 18 Completed
+- [ ] Day 19 Completed
+- [ ] Day 20 Completed
+- [ ] Day 21 Completed
+- [ ] Day 22 Completed
+- [ ] Day 23 Completed
+- [ ] Day 24 Completed
+- [ ] Day 25 Completed
+- [ ] Day 26 Completed
+- [ ] Day 27 Completed
+- [ ] Day 28 Completed
+- [ ] Day 29 Completed
+- [ ] Day 30 Completed
 
 ## Community #JavaScript30 Content
 
