@@ -8,7 +8,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 ## My Progress
 - [x] Day 1 Completed
-- [ ] Day 2 Completed
+- [x] Day 2 Completed
 - [ ] Day 3 Completed
 - [ ] Day 4 Completed
 - [ ] Day 5 Completed
