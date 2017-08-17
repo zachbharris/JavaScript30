@@ -12,7 +12,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] Day 3 Completed
 - [x] Day 4 Completed
 - [x] Day 5 Completed
-- [ ] Day 6 Completed
+- [x] Day 6 Completed
 - [ ] Day 7 Completed
 - [ ] Day 8 Completed
 - [ ] Day 9 Completed
